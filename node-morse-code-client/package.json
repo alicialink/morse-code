@@ -1,0 +1,6 @@
+{
+	"name": "cw-client",
+	"description": "Interface to the telnet enabled CW keyer",
+  "private": true,
+	"version": "0.0.1",
+}
